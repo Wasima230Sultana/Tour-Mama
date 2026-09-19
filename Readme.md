@@ -116,10 +116,8 @@ in your browser.
 Alternatively, if use **VS Code**, install the **Live Server** extension and open the project with Live Server.
 
 ## 📸 Website Preview
+<img src='images/website-preview.png' alt="">
 
-```markdown
-![Tour Mama Website](images/website-preview.png)
-```
 
 ## 🎯 Project Purpose
 
